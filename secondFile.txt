@@ -2,4 +2,8 @@ This is the initial contents
 of the second file that comprises
 our most excellent project.
 
+
 User B text change
+
+UserA text change
+
